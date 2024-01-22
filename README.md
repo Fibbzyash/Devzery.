@@ -1,1 +1,1 @@
-# Devzery.
+# Devzery
